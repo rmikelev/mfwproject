@@ -8,27 +8,34 @@
  
 }
 
-
-
-/* .jumbotron a.btn {
+ /* .jumbotron a.btn { 
     color: rgba(255, 255, 255, .7);
     background-color: #c6976410;
     border: 2px solid black;
+    margin-top: 20rem;
     transition: all 0.6s;
-} */
+}  */
 
 /* .jumbotron a.btn:hover {
     background-color: rgba(223, 196, 143, 0.085);
     color: rgba(255, 255, 255, .7);
     border: 2px solid; */
-}
-/* .sect1 {
-    color: rgba(255, 255, 255, .7);
-    background-color: #c6976410;
-    border: 2px solid black;
-    transition: all 0.6s;
+
+ .sect1 a.btn content {
+    transition: all 0.4s;
 }
 .sect1 a.btn:hover {
-    background-color: rgba(223, 196, 143, 0.085);
-    color: rgba(255, 255, 255, .7);
-    border: 2px solid; */
+    border: 2px solid;
+    
+}
+.banner_section {
+    height: 240px;
+    
+    background-color: #C6D2E7;
+    background-color: goldenrod;
+}
+.elite {
+    height: 20rem;
+    width: 40rem;
+    overflow: scroll;
+}
