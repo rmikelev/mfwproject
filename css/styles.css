@@ -39,7 +39,8 @@
     overflow: scroll;
 }
 body {
-    background-color: lightcoral;}
+    background-color: rgba(242, 200, 183, 1);
+}
 img {
 width: 600px;
 height: 600px;
