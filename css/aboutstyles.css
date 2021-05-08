@@ -1,0 +1,11 @@
+body {
+    background-color:rgba(228, 201, 147, 0.414);
+
+}  
+
+img {
+    width: 600px;
+    height: 600px;
+    object-fit: contain;
+    padding-top: 3rem;
+    }
