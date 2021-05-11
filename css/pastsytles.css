@@ -1,0 +1,19 @@
+
+
+.banner_section {
+    height: 240px;
+    
+    background-color: #C6D2E7;
+    background-color: goldenrod;
+}
+
+body {
+    background-color: rgba(242, 200, 183, 1);
+}
+#overview {
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  margin-top: 15rem;
+  left: 12rem;
+}
