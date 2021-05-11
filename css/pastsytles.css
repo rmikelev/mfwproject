@@ -17,3 +17,7 @@ body {
   /* margin-top: 5rem;
   left: 12rem; */
 }
+.elite {
+  height: 18rem;
+  overflow: scroll;
+}
