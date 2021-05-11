@@ -13,7 +13,7 @@ body {
 #overview {
   width: 300px;
   height: 150px;
-  position: absolute;
-  margin-top: 15rem;
-  left: 12rem;
+  position: relative;
+  /* margin-top: 5rem;
+  left: 12rem; */
 }
