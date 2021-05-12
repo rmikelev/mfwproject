@@ -1,0 +1,9 @@
+
+
+body {
+    background-color: rgba(242, 200, 183, 1);
+}
+#overview {
+  width: 300px;
+  height: 150px;
+  position: relative;}
