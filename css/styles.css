@@ -1,7 +1,7 @@
 .jumbotron {
     height: 600px;
     margin-bottom: 0px;
-    background-image: url(/images/sand-dunes.jpg);
+    background-image: url(../images/sand-dunes.jpg);
     /* background-position: 0% 25%; */
     background-size: cover;
     background-repeat: no-repeat;
@@ -48,6 +48,6 @@ object-fit: contain;
 padding-top: 3rem;
 }
 
-.fixit{
+.fixit {
     background-color: rgba(242, 200, 183, 1);
 }
